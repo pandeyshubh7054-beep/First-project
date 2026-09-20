@@ -1,2 +1,2 @@
 # First-project
-MY first git repositry
+MY first git repositry Author - Shubh pandey
